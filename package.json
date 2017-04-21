@@ -1,0 +1,22 @@
+{
+  "name": "strava",
+  "version": "1.0.0",
+  "description": "Strava bulk updater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbr/strava-bulk-updater.git"
+  },
+  "author": "Alex Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbr/strava-bulk-updater/issues"
+  },
+  "homepage": "https://github.com/alexbr/strava-bulk-updater#readme",
+  "dependencies": {
+    "strava-v3": "^1.14.0"
+  }
+}
