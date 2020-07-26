@@ -1,6 +1,6 @@
 {
   "name": "strava",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strava bulk updater",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/alexbr/strava-bulk-updater#readme",
   "dependencies": {
-    "strava-v3": "^1.14.0"
+    "lodash": "^4.17.19",
+    "open": "^7",
+    "strava-v3": "^2"
   }
 }
